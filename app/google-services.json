@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212536253694",
+    "project_id": "pratama-test-project",
+    "storage_bucket": "pratama-test-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212536253694:android:76e42eee4fd3e7d71359af",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212536253694-q9blhsrnuio5nnf3s95tm1e38d5cctpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxafbPxZQ2yEIoIKzPT_cxfY2FBg7nu6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212536253694-q9blhsrnuio5nnf3s95tm1e38d5cctpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
